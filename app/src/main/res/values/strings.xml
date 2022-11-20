@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Time of Fortune</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">693673045212908</string>
+    <string name="fb_login_protocol_scheme">fb693673045212908</string>
+</resources>
